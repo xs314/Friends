@@ -38,7 +38,3 @@
   url: https://www.ddosi.org/
   avatar: ddosi.org.webp
   slogan: "网络安全"
-- name: '百度' # 网站名称，请使用双引号包裹
-  url: https://baidu.com # 网站链接
-  avatar: baidu.com.png # Logo 的文件名
-  slogan: 'Slogan' # Slogan，请使用双引号包裹
