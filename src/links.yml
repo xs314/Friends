@@ -38,15 +38,19 @@
   url: https://www.ddosi.org/
   avatar: ddosi.org.webp
   slogan: "网络安全"
-- name: '滑稽小舍'
+- name: "滑稽小舍"
   url: https://huajishe.com
   avatar: huajishe.com.jpg
-  slogan: '闲话终日有，不听自然无。'
-- name: 'Young Free'
+  slogan: "闲话终日有，不听自然无。"
+- name: "Young Free"
   url: https://www.youngfree.cn/
   avatar: www.youngfree.cn.png
-  slogan: '一个英语专业毕业却在电商行业谋生的80后金牛男，不会码代码，单身可撩'
-- name: 'FengMo博客' # 网站名称，请使用双引号包裹
-  url: https://mo66.cn/ # 网站链接
-  avatar: mo66.cn.jpg # Logo 的文件名
-  slogan: '记录生活点滴' # Slogan，请使用双引号包裹
+  slogan: "一个英语专业毕业却在电商行业谋生的80后金牛男，不会码代码，单身可撩"
+- name: "FengMo博客"
+  url: https://mo66.cn/
+  avatar: mo66.cn.jpg
+  slogan: "记录生活点滴"
+- name: "AustenBlog"
+  url: https://blogbyme.cn/
+  avatar: blogbyme.cn.webp
+  slogan: "Adventurous, Brave, Creative."

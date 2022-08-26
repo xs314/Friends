@@ -3,11 +3,11 @@
 ## 友链交换须知
 
 1. 友链友链，先友才能后链。<br>
-   <sub>如果你和我很熟的话，可以直接忽略下面的内容，把友链信息在私聊里丢给我就好啦~</sub>
+   <sub>如果你和我很熟的话，可以直接忽略下面的内容，直接发起 Pull Request 就好啦~</sub>
 2. 原则上只接受博客类型的友链申请。<br>
 3. 原创很重要！博客可以长草，但不要滥竽充数，没有实质性内容的博客是不受欢迎的哦~
 4. 会正确使用 Git 和 GitHub 。
-5. 最终解释权归XiaoShi所有。
+5. 最终解释权归 XiaoShi 所有。
 
 ## 友链交换流程
 
@@ -43,10 +43,10 @@
 7. 修改 `src/links.yml` 文件。
    - 按照如下格式将你的网站信息添加到 `links.yml` 文件的末尾：
      ```yml
-     - name: 'Site Name' # 网站名称，请使用双引号包裹
+     - name: "Site Name" # 网站名称，请使用双引号包裹
        url: https://example.com # 网站链接
        avatar: example.com.png # Logo 的文件名
-       slogan: 'Slogan' # Slogan，请使用双引号包裹
+       slogan: "Slogan" # Slogan，请使用双引号包裹
      ```
    - Commit 的标题应为 `Add: [sitename] ( [url] )`，如 `Add: example blog ( https://example.com )`
 8. 完成上述步骤后，请新建一个 Pull Request。
