@@ -21,7 +21,7 @@
      - Favicon
        - [`48x48`, ico](https://img.shiyunhong.com/index.ico)
      - 头像
-       - [`612x612`, png](https://img.shiyunhong.com/gravatar.webp)
+       - [`612x612`, webp](https://img.shiyunhong.com/gravatar.webp)
      - 如果你的友链页面没有放 Logo 的地方就可以不用放了哦~
    - Slogan
      - 中文：`我们的征途是星辰大海。`
@@ -38,14 +38,14 @@
    - Slogan 应适合在任何网站上展示给任何年龄段的任何人
 5. 在 GitHub 上 Fork 这个仓库。
 6. 在 `src/img` 下提交 Logo 文件。
-   - 文件名格式为 `[domain].[format]`，如 `example.com.png`，`blog.example.com.jpg`
-   - Commit 的标题应为 `Add: [filename] ( [url] )`，如 `Add: example.com.png ( https://example.com )`
+   - 文件名格式为 `[domain].[format]`，如 `example.com.webp`，`blog.example.com.jpg`
+   - Commit 的标题应为 `Add: [filename] ( [url] )`，如 `Add: example.com.webp ( https://example.com )`
 7. 修改 `src/links.yml` 文件。
    - 按照如下格式将你的网站信息添加到 `links.yml` 文件的末尾：
      ```yml
      - name: "Site Name" # 网站名称，请使用双引号包裹
        url: https://example.com # 网站链接
-       avatar: example.com.png # Logo 的文件名
+       avatar: example.com.webp # Logo 的文件名
        slogan: "Slogan" # Slogan，请使用双引号包裹
      ```
    - Commit 的标题应为 `Add: [sitename] ( [url] )`，如 `Add: example blog ( https://example.com )`
