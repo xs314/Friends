@@ -1,0 +1,84 @@
+- name: "Avrinbai' Blog"
+  url: https://avrinbai.cn/
+  avatar: avrinbai.cn.png
+  slogan: "新者一日 新之始基"
+- name: "站长资源网"
+  url: https://www.hnzzz.net/
+  avatar: www.hnzzz.net.png
+  slogan: "分享站长资源"
+- name: "青衫慧博客"
+  url: https://blog.yanqingshan.com/
+  avatar: blog.yanqingshan.com.png
+  slogan: "分享编程知识,传播正能量"
+- name: "zeruns"
+  url: https://blog.zeruns.tech/
+  avatar: blog.zeruns.tech.png
+  slogan: "学习笔记和技术分享"
+- name: "Yamdr"
+  url: https://www.yamdr.cn/
+  avatar: yamdr.cn.png
+  slogan: "故事不结束,青春不散场"
+- name: "LeZi的猫窝"
+  url: https://leziblog.com/
+  avatar: leziblog.cn.png
+  slogan: "世界上本没有博客，直到有了程序员"
+- name: "刘大喵blog"
+  url: https://ipwa.cn/
+  avatar: ipwa.cn.png
+  slogan: "一个IT运维And网工搭建的个人分享站"
+- name: "Stephen's Blog"
+  url: https://www.stephen520.cn/
+  avatar: stephen520.cn.png
+  slogan: "心有猛虎,细嗅蔷薇"
+- name: "安和Blog"
+  url: https://blog.anhe.one/
+  avatar: nekocoffee.com.png
+  slogan: "介绍"
+- name: "雨苁"
+  url: https://www.ddosi.org/
+  avatar: ddosi.org.png
+  slogan: "网络安全"
+- name: "鹿形鱼dè小窝"
+  url: https://blog.xingyu.lu/
+  avatar: huajishe.com.png
+  slogan: "天高地广自在鹿，流水无情意在鱼。"
+- name: "Young Free"
+  url: https://www.youngfree.cn/
+  avatar: www.youngfree.cn.png
+  slogan: "英语转电商的80后"
+- name: "FengMo博客"
+  url: https://mo66.cn/
+  avatar: mo66.cn.png
+  slogan: "记录生活点滴"
+- name: "AustenBlog"
+  url: https://blogbyme.cn/
+  avatar: blogbyme.cn.png
+  slogan: "Adventurous, Brave, Creative."
+- name: "珂泽小站"
+  url: https://www.kezez.com
+  avatar: www.kezez.com.png
+  slogan: "某全沾工程师的技术笔记和划水日常"
+- name: "瞬间 Press"
+  url: https://tripper.press/
+  avatar: tripper.press.png
+  slogan: "拿起相机 认真思考"
+
+# ==========================================================================
+# 维护者参考（以下为可选字段示例，默认不要写）
+# ==========================================================================
+#
+#  当站点暂时无法访问、域名待确认等情况，你手动在对应条目下追加：
+#
+#    status: offline        # 目前就这一个取值，标记为离线（前端会置灰+不可点击）
+#    note: "域名已更换，待对方确认新地址后更新"   # 任意说明文字，展示在卡片底部小字
+#
+#  示例：
+#
+#  - name: "示例博客"
+#    url: https://example.com
+#    avatar: example.com.png
+#    slogan: "示例 slogan"
+#    status: offline
+#    note: "站点暂时无法访问"
+#
+# ==========================================================================

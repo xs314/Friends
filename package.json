@@ -1,0 +1,22 @@
+{
+  "name": "friends",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Friend link page for blog.shiyunhong.com. Builds optimized avatars in AVIF/WebP/fallback formats via sharp.",
+  "scripts": {
+    "build": "gulp"
+  },
+  "dependencies": {
+    "delete": "^1.1.0",
+    "gulp": "^4.0.2",
+    "gulp-html-minifier-terser": "^7.0.0-beta.0",
+    "gulp-if": "^3.0.0",
+    "gulp-yaml": "^2.0.4",
+    "sharp": "^0.35.3"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xs314/Friends.git"
+  }
+}
