@@ -1,0 +1,35 @@
+{
+  "headers": [
+    {
+      "source": "/*",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET,POST,OPTIONS" },
+        { "key": "Access-Control-Allow-Headers", "value": "Authorization,Content-Type,Accept,Origin,X-Requested-With" },
+        { "key": "Access-Control-Max-Age", "value": "86400" },
+        { "key": "Vary", "value": "Origin" },
+        { "key": "server", "value": "nginx" },
+        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
+        {"key": "Cache-Control","value": "max-age=7200"}     
+      ]
+    },
+    {
+      "source": "/*",
+      "headers": [
+        { "key": "Cache-Control", "value": "7200" }
+      ]
+    },
+    {
+      "source": "/",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache" }
+      ]
+    },
+    {
+      "source": "/index.html",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache" }
+      ]
+    }
+  ]
+}
